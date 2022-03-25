@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: 6 Finite State Machines
 uid: 1c9ab291-68cf-1e57-eeaf-2f8c2015d9dc
 ---

@@ -8,6 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video

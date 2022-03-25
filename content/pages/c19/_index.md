@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: 19 Concurrency and Synchronization
 uid: 8d47f5e6-fb0b-d9f2-9387-9c21cfb1c9aa
 ---
