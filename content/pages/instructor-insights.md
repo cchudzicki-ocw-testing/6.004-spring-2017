@@ -1,7 +1,8 @@
 ---
 content_type: page
+description: In this section Chris Terman describes various aspects of how he taught
+  6.004 Computation Structures.
 draft: false
-parent_uid: null
 title: Instructor Insights
 uid: afe08404-8e78-ace8-b662-e0ac78cd1a98
 ---
@@ -13,11 +14,7 @@ _In the following video and Chalk Radio podcast episode, Chris Terman describes 
 
 {{% resource_link 6b51b112-bd65-9ef1-947d-69b7a6dd049d "An Interview with Christopher Terman on Teaching Computation Structures" %}}
 
-\[
-
-{{< resource c6349d75-30a9-cd25-d7bc-699c0edc1647 >}}
-
-\]({{< baseurl >}}/resources/meet-the-educator)
+{{< resource uuid="c6349d75-30a9-cd25-d7bc-699c0edc1647" href_uuid="132b4773-3716-6146-d893-4c0c2f80c3da" >}}
 
 View by chapter
 
