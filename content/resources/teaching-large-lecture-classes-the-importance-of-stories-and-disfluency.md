@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '637'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '481'
 title: 'Teaching Large Lecture Classes: The Importance of Stories and Disfluency'
 uid: 213c16bc-3a1a-9535-e06a-6e14bfde68e0
 video_files:

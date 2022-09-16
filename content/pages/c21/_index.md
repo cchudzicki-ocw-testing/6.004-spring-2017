@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: 21 Parallel Processing
 uid: 137e1b2f-66e7-989b-562c-f577e910834c
 ---

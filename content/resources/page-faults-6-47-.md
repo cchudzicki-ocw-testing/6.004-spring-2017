@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 16.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Page Faults
 uid: 502171c8-b317-4031-b76b-c8a712f568e4
 video_files:

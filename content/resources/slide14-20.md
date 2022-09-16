@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: 'Image: '
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-004-computation-structures-spring-2017/6d1d800cc028ad069550cc1a2e0362b9_Slide14.png
+file: /media/courses/6-004-computation-structures-spring-2017/6d1d800cc028ad069550cc1a2e0362b9_Slide14.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 21.1 Annotated Slides
 parent_type: CourseSection
@@ -16,3 +17,4 @@ resourcetype: Image
 title: Slide14.png
 uid: 6d1d800c-c028-ad06-9550-cc1a2e0362b9
 ---
+Image: 

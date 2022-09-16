@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 9 Designing an Instruction Set
@@ -9,7 +10,7 @@ title: 9.2 Topic Videos
 uid: 5c4d3e65-eb78-c4a8-ad52-9266007c5239
 ---
 
-*   {{% resource_link 50133447-1f02-454d-b4c8-8a4afb3d32b8 "\<Annotated Slides" %}}
+*   {{% resource_link "50133447-1f02-454d-b4c8-8a4afb3d32b8" "« Annotated Slides" %}}
 *   {{% resource_link 5c4d3e65-eb78-c4a8-ad52-9266007c5239 "9.2.1Datapaths and FSMs" %}}
 *   {{% resource_link 1bd0c4a0-df0c-70e7-2352-632832addb5f "9.2.2Programmable Datapaths" %}}
 *   {{% resource_link 53539ad6-33d1-bf2c-8109-8cf6692078d8 "9.2.3The von Neumann Model" %}}
@@ -20,7 +21,7 @@ uid: 5c4d3e65-eb78-c4a8-ad52-9266007c5239
 *   {{% resource_link 55071aa4-3398-8c94-1a9c-3496c0fdceee "9.2.8Branches" %}}
 *   {{% resource_link 5edf62c3-bd7e-7fba-bac1-e3feaffc724e "9.2.9Jumps" %}}
 *   {{% resource_link ed9174fd-aa12-e9dc-cd26-76639a65be3b "9.2.10Worked Examples" %}}
-*   {{% resource_link 1bd0c4a0-df0c-70e7-2352-632832addb5f "\>Programmable Datapaths" %}}
+*   {{% resource_link "1bd0c4a0-df0c-70e7-2352-632832addb5f" "» Programmable Datapaths" %}}
 
 Datapaths and FSMs (5:17)
 -------------------------

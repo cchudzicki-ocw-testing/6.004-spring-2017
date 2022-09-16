@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 18.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Worked Example: Devices and Interrupts'
 uid: 25f7681e-6b5b-191b-574c-c8185d3dcab9
 video_files:

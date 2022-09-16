@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 4.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Sum of Products (9:38)
 uid: 82066f9b-0b78-79fc-7545-c9fef6f74a10
 video_files:

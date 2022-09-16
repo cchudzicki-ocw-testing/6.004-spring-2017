@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 18.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: SVCs for Input/Output (8:52)
 uid: 4dcc88e8-9078-34b7-c84e-64f30d326373
 video_files:

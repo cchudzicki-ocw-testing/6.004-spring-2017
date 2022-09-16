@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '1756'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1586'
 title: 'The Fun is in the Doing of the Puzzle: Self-Paced Mastery Learning and Moving
   Beyond the Answer'
 uid: c55634af-39dd-9b36-aea5-15aa26ab4768

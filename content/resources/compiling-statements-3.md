@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 11.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Compiling Statements (3.53)
 uid: 1861426c-b171-0558-7df0-1a7fff7d5555
 video_files:

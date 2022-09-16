@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: 5 Sequential Logic
 uid: 65644957-eae2-5f55-14b2-8b47728b4c31
 ---

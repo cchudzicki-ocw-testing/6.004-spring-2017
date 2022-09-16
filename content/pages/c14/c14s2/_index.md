@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 14 Caches and the Memory Hierarchy
@@ -9,7 +10,7 @@ title: 14.2 Topic Videos
 uid: e049ec91-6ab1-9944-2bd9-158b7136ada8
 ---
 
-*   {{% resource_link f65bc7a3-97ff-f216-13ee-a241c537bd4c "\<Annotated Slides" %}}
+*   {{% resource_link "f65bc7a3-97ff-f216-13ee-a241c537bd4c" "« Annotated Slides" %}}
 *   {{% resource_link e049ec91-6ab1-9944-2bd9-158b7136ada8 "14.2.1Memory Technologies" %}}
 *   {{% resource_link 07a07a4e-d575-4b56-b67f-176464b50d91 "14.2.2SRAM" %}}
 *   {{% resource_link 6fff0d50-d031-8f2f-e024-487c92cee0a4 "14.2.3DRAM" %}}
@@ -21,7 +22,7 @@ uid: e049ec91-6ab1-9944-2bd9-158b7136ada8
 *   {{% resource_link f9fddc34-c321-176b-7863-3aac75474cd3 "14.2.9Associative Caches" %}}
 *   {{% resource_link 6bd4958a-931f-4153-acc0-17417c7ab9e2 "14.2.10Write Strategies" %}}
 *   {{% resource_link 9f6575a7-2244-2cd9-719b-73804b20a778 "14.2.11Worked Examples" %}}
-*   {{% resource_link 07a07a4e-d575-4b56-b67f-176464b50d91 "\>SRAM" %}}
+*   {{% resource_link "07a07a4e-d575-4b56-b67f-176464b50d91" "» SRAM" %}}
 
 Memory Technologies (4:16)
 --------------------------

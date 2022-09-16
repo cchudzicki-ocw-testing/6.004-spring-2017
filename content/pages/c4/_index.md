@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: 4 Combinational Logic
 uid: dd057f79-dfc7-79ee-ad85-cab1a1a91750
 ---

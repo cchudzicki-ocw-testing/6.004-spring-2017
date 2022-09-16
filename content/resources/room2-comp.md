@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-004-computation-structures-spring-2017/32c0a7771674c67459e459b699b0e76e_room2-comp.jpg
+file: /media/courses/6-004-computation-structures-spring-2017/32c0a7771674c67459e459b699b0e76e_room2-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection

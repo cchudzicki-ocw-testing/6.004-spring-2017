@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: 16 Virtual Memory
 uid: 76d5b94f-1d73-abfb-8b7a-27a9d119bc19
 ---

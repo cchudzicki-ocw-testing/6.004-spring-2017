@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: 9 Designing an Instruction Set
 uid: 8a240b21-8a75-95ac-4780-61831b8316d6
 ---

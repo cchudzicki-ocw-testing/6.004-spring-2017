@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-004-computation-structures-spring-2017/b3e1ac1e9d1add429df3bcf35757659e_H0xGKKpKaRE.pdf
+file: /media/courses/6-004-computation-structures-spring-2017/b3e1ac1e9d1add429df3bcf35757659e_H0xGKKpKaRE.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: b3e1ac1e-9d1a-dd42-9df3-bcf35757659e

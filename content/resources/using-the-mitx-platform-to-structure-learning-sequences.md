@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '397'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '247'
 title: Using the MITx Platform to Structure Learning Sequences
 uid: df2d7ba2-ac0b-c7eb-54b8-89527e4bc256
 video_files:

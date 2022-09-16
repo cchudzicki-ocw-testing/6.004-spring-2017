@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: '799'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '638'
 title: 'The Teaching Team: From Lab Assistants to Faculty Members, the Range of Experience
   is Key'
 uid: 165f36c1-ed46-8737-b10a-45ffbd80355e
